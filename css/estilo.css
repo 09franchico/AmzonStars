@@ -284,3 +284,49 @@ a{
     }
        
 }
+
+
+
+/* PAGE XTREINOS AMZONS */
+
+.banner-xt{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+    height: 400px;
+    color: rgb(0, 50, 216);
+}
+.titulo-banner{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30pt;
+}
+.texto-banner-xt{
+    margin-top: -20px;
+    color: white;
+}
+#hr{
+    box-shadow: 0px 0px 10px 2px rgb(21, 53, 158);
+    border-radius: 20px;
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+    color: rgb(252, 252, 252);
+    font-size: 20pt;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+@media (max-width:840px){
+   .banner-xt{
+       height: 300px;
+   }
+    .titulo-banner{
+        font-size: 15pt;
+
+    }
+    .texto-banner-xt{
+        margin: 0px;
+        font-size: 9pt;
+    }
+       
+}
