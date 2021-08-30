@@ -209,10 +209,12 @@ a{
     margin-bottom: 20px;
 }
 
+/*
 .img-logo:hover{
     transform: rotateY(360deg);
     transition: all 1s;
 }
+*/
 
 @media (max-width:840px){
     .aulas-texto{
