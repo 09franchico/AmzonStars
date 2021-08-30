@@ -63,6 +63,7 @@ li:hover{
     margin-top: 100px;
 }
 
+
 /* BANNER */
 
 .banner-2{
@@ -97,6 +98,7 @@ li:hover{
     padding: 10px;
     width: 290px;
 }
+
 
 @media (max-width:840px){
     #ans{
@@ -154,6 +156,7 @@ a{
     align-items: center;
     margin: 20px;
 }
+
 
 @media (max-width:840px){
     .principal-1{
