@@ -52,6 +52,9 @@ li:hover{
    .img-menu{
        display: none;
    }
+   .menu{
+       justify-content: flex-end;
+   }
    
 
 
