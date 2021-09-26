@@ -32,8 +32,7 @@ imagem.style.transform="rotateY("+rotate+"deg)";
  },70);
        
 
-  //PAGINA XTREINOS
-
+  //PAGINA XTREINOS horas
   let hr = document.querySelector("#hr");
   function horas(){
      let d = new Date();
@@ -48,5 +47,4 @@ imagem.style.transform="rotateY("+rotate+"deg)";
     horas();
   },1000)
        
- 
 
